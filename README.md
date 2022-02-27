@@ -1,2 +1,2 @@
 # MVOSR_TMM
-Transactions on multimedia
+Code of Transactions on multimedia
